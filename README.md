@@ -2,6 +2,10 @@ Selenium ile Ürün Stok Takip Botu
 Bu proje, Zara'nın internet sitesindeki ürünlerin belirli bedenlerinin stok durumunu kontrol etmek için geliştirilmiş bir Selenium botudur. Kullanıcıdan alınan ürün bağlantılarına ve hedef bedene göre düzenli olarak stok kontrolü yapılır. Kriterlere uygun bir ürün bulunduğunda sesli uyarı verir. Klavye'den CTRL + C Girişi bekler ve girdiyi almadan kapanmaz.
 Programın tek amacı eğitimdir.
 
+--Güncelleme : 
+Program istenilen ürün ve bedenlerini siz klavyeden kapatana kadar arayacak ve her stok bulduğu ürün için programın başlangıcında belirtmiş olduğunuz email adresine mail atacak şekilde yenilendi.
+Bunun için SMTP Bilgilerinizi girmeniz gerekmektedir.
+
 Özellikler
 -Birden Fazla Ürünü Kontrol Etme: Kullanıcı birden fazla ürün linki ekleyebilir.
 -Beden Seçimi: Hedef beden kullanıcıdan alınır ve sadece bu beden kontrol edilir.
