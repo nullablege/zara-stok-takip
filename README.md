@@ -1,7 +1,7 @@
 # 🐍 Python E-ticaret Ürün Stok ve Beden Takip Otomasyonu
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
-![Selenium Logo](https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png)
+![Selenium Logo]([https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png?20210927154434))
 
 Bu Python script'i, belirli e-ticaret sitelerindeki ürünlerin istediğiniz bedende stoğa girip girmediğini **otomatik olarak takip eder** ve ürün bulunduğunda sizi **e-posta ve sesli uyarı** ile bilgilendirir. Yoğun talep gören veya sınırlı sayıda üretilen ürünleri kaçırmak istemeyenler için ideal bir çözümdür!
 
